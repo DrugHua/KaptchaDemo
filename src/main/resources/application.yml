@@ -1,0 +1,8 @@
+spring:
+  data:
+    redis:
+      host: 127.0.0.1
+      port: 6379
+      database: 12
+      #      password: ',ideal@WSX'
+      timeout: 10000
